@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the sale of several rich Indian goods, by way of ticket or lot to the value of 1500 1.  Consisting of fine cabinets and skreens, tables, stands and glasses, tea-tables and stands; chests, trunks, &amp;c. and several other sorts of Japan: several sets of fine china jars; also all sorts of China fine Indian wrought beds and quilts, rich Indian silks, viz. atlasses, cuttanees, and several other sorts of Indian silks, fine Indian fanns, muslins and calicoes and several others too long to incert.</title>
+            <author>Rose, Joseph, fl. 1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09902</idno>
+            <idno type="STC">Wing R1939A</idno>
+            <idno type="STC">ESTC R224568</idno>
+            <idno type="EEBO-CITATION">64551707</idno>
+            <idno type="OCLC">ocm 64551707</idno>
+            <idno type="VID">184778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184778)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the sale of several rich Indian goods, by way of ticket or lot to the value of 1500 1.  Consisting of fine cabinets and skreens, tables, stands and glasses, tea-tables and stands; chests, trunks, &amp;c. and several other sorts of Japan: several sets of fine china jars; also all sorts of China fine Indian wrought beds and quilts, rich Indian silks, viz. atlasses, cuttanees, and several other sorts of Indian silks, fine Indian fanns, muslins and calicoes and several others too long to incert.</title>
+                  <author>Rose, Joseph, fl. 1694.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lotteries --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prospectus_for_raffle">
+            <pb facs="tcp:184778:1" rendition="simple:additions"/>
+            <head>
+               <figure/>A Propoſal for the Sale of ſeveral Rich <hi>Indian</hi> Goods, by way of Ticket or
+Lot, to the Value of <hi>1500 <abbr>l.</abbr>
+               </hi> conſiſting of fine Cabi<g ref="char:EOLhyphen"/>nets and Skreens,
+Tables, Stands and Glaſſes, Tea-Tables and Stands; Cheſts, Trunks, <hi>&amp;c.</hi> and
+ſeveral other ſorts of <hi>Japan:</hi> Several Sets of fine <hi>China</hi> Jarrs; alſo all
+ſorts of <hi>China</hi> fine <hi>Indian</hi> wrought Beds and Quilts, Rich <hi>Indian</hi> Silks,
+<hi>viz. Atlaſſes, Cuttances,</hi> and ſeve<g ref="char:EOLhyphen"/>ral other ſorts of <hi>Indian</hi> Silks, Fine
+<hi>Indian</hi> Fanns, Muſlins and Cal<g ref="char:EOLhyphen"/>licoes, and ſeveral others too long to incert.</head>
+            <p>AT the <hi>Indian</hi> Ware-houſe, at the Sign of the <hi>Black Bell</hi> in
+<hi>Bedford-ſtreet, Convent-Gar<g ref="char:EOLhyphen"/>den,</hi> by <hi>Joſeph Roſe,</hi> and <hi>Eliz. Madox,</hi>
+will be delivered out 12000 Tickets, at 2 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> each,
+and there ſhall be alſo 12000 Blank Tickets prepared, 240 whereof ſhall be made Benefits;
+which ſaid Benefits ſhall contain in Goods to the value above-mentioned.</p>
+            <p>
+               <table>
+                  <head>The Benefits are to be</head>
+                  <row>
+                     <cell rows="13">The firſt Ticket drawn ſhall have 20 <abbr>
+                           <hi>l.</hi>
+                        </abbr> value if not
+Benefited, but if Be<g ref="char:EOLhyphen"/>nefited, 20 <abbr>
+                           <hi>l.</hi>
+                        </abbr> value above its Benefit.</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>150 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell rows="13">The firſt Ticket drawn after all the Benefits ſhall have 20
+<abbr>
+                           <hi>l.</hi>
+                        </abbr> value, but if a Benefit be laſt drawn, 20 <abbr>
+                           <hi>l.</hi>
+                        </abbr> value
+above its Benefit.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>100 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>80 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>60 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2 each</cell>
+                     <cell>30 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>60 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4 each</cell>
+                     <cell>20 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>80 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>10 each</cell>
+                     <cell>14 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>140 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>20 each</cell>
+                     <cell>8 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>160 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>30 each</cell>
+                     <cell>5 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>150 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>40 each</cell>
+                     <cell>4 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>160 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>60 each</cell>
+                     <cell>3 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>180 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>70 each</cell>
+                     <cell>2 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell>140 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total">Tickets 240</cell>
+                     <cell role="total">1460 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>Firſt Ticket</cell>
+                     <cell>20 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Laſt Ticket</cell>
+                     <cell>20 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">1500 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+               </table> 
+            </p>
+            <p>Books are already made, containing three Tickets to every number, the firſt ſhall be cut out
+and delivered to the Adventurer, as a receipt for the Money; the ſecond ſhall be cut out to be
+drawn, and the third kept in the Book to be compared with, to prevent Miſtakes or Fraud.</p>
+            <p>Each Benefited Ticket when drawn, will contain in it an exact Liſt of the Goods belong<g ref="char:EOLhyphen"/>ing to
+it, which ſhall be carefully ſorted and appraiſed, by Mr. <hi>Thomas Pym,</hi> in
+<hi>Water-lane,</hi> near the <hi>Cuſtom houſe;</hi> Mr. <hi>Thomas Cuſhe,</hi> in the
+<hi>Poultry;</hi> Mr. <hi>Joſeph Kilbey,</hi> in <hi>Red-Croſs-ſtreet,</hi> and Mr.
+<hi>William Halford</hi> of <hi>Garlick Hill,</hi> ſworn Appraiſers, and Perſons very knowing
+in the goods aforenamed, who alſo ſhall be ſworn before a Magiſtrate to act juſtly upon
+this occaſion.</p>
+            <p>And for general ſatisfaction, theſe perſons following, not at all intereſſed in this
+matter, do offer to be ſecurity for the juſt and due performance of theſe Propoſals, and do
+likewiſe pro<g ref="char:EOLhyphen"/>miſe, that three or more of them will be preſent to ſee the ſame duly and
+rightly managed, <hi>viz.</hi> Mr. <hi>Make-peace Holloway,</hi> at the <hi>Golden Cup</hi> in
+<hi>Leaden-hall ſtreet,</hi> near <hi>Creed Church;</hi> Mr. <hi>Joſeph Sheen,</hi> in
+<hi>Ball-alley, Lombard-ſtreet;</hi> Mr. <hi>Charles Lucy,</hi> at the <hi>Golden Cup,</hi> in
+<hi>Ruſſel-ſtreet, Convent Garden,</hi> Goldſmiths; and Mr. <hi>John Haſel,</hi> at the
+<hi>Croſs Keys,</hi> in <hi>Ludgate-street,</hi> Lace<g ref="char:EOLhyphen"/>man; Mr. <hi>William Bleak,</hi> at the
+<hi>Kings Arms,</hi> in the <hi>Strand,</hi> near <hi>Northumberland-houſe,</hi> Caneman.</p>
+            <p>'Tis hoped the whole number of Tickets may be compleated by the 20th of <hi>Marth</hi> next, but
+if it ſhould ſooner happen, publick notice ſhall be given when the ſame ſhall be drawn at
+the place aforementioned, which is a large convenient Room, fit to receive Spectators, where alſo
+the ſaid Goods are to be viewed.</p>
+            <p>But if the whole number be not compleated by the time prefixed, a draught ſhall
+notwith<g ref="char:EOLhyphen"/>ſtanding be then made for the Money already put in, and the Benefits ſhall be exactly
+propor<g ref="char:EOLhyphen"/>tioned to the Money advanced by the aforenamed Appraiſers, and by the Approbation of the
+aforementioned Overſeers.</p>
+            <p>Tickets are delivered beſides at the place abovenamed; alſo at Mr. <hi>Make-peace
+Holloway</hi>'s, at the <hi>Golden Cup,</hi> in <hi>Leaden-hall ſtreet,</hi> near <hi>Creed
+Church;</hi> Mr. <hi>Joſeph Sheen</hi>'s, in <hi>Ball-alley, Lom<g ref="char:EOLhyphen"/>bard-ſtreet;</hi> Mr. <hi>John
+Haſel</hi>'s, at the <hi>Croſs Keys,</hi> in <hi>Ludgate-ſtreet;</hi> and Mr. <hi>William
+Bleak</hi>'s, at the <hi>Kings Arms,</hi> in the <hi>Strand,</hi> near
+<hi>Northumberland-houſe,</hi> Overſeers aforenamed; and at Mr. <hi>Charles Mather</hi>'s, next
+the <hi>Rainbow</hi> Coffee-houſe, near the <hi>Temple,</hi> who have all given ſecurity for
+every particular Summ by them received.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
